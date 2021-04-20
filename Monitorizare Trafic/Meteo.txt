@@ -1,0 +1,6 @@
+Temperatura minima: 16 Grade Celsius
+Temperatura maxima: 27 Grade Celsius
+Temperatura curenta: 23 Grade Celsius
+Vreme: Cer senin
+Vant: 10 km/h
+Precipitatii: 0

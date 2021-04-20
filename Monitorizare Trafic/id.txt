@@ -1,0 +1,13 @@
+1.Str. Alexandru Lapusneanu
+2.Str. Stefan cel Mare
+3.Str. Sportului
+4.Str. Gradinitei
+5.Str. Mihai Eminescu
+6.Str. Salciilor
+7.Str. Tatarasi
+8.Str. Copou
+9.Str. Palas
+10.Str. Centru
+11.Str. Pacurari
+12.Str. Alexandru cel Bun
+13.Str. Mihail Kogalniceanu

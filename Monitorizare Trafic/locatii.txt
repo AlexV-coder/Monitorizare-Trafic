@@ -1,0 +1,10 @@
+1. Kaufland
+2. Peco
+3. Profi
+4. Universitate
+5. Piata
+6. Mall
+7. Cinema
+8. Teatru
+9. Scoala
+10. Biserica
